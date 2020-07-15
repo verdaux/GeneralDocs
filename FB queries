@@ -1,0 +1,18 @@
+
+	1. We require a fb business manager account. If we can get credentials for an existing account that would be great.
+	2. 
+System admin user account needs to be created. Is that compulsory?
+	3. 
+Are the  .create offline event set
+
+
+                       .set ad tracking
+                       steps necessary before uploading events through api hit?
+
+	1. 
+this is not meant for older data
+	2. 
+how can we test sample data? can we get a sample request / response scenario data and then we can expand on that?
+	3. 
+Are we supposed to build upload stats as well?
+
